@@ -4,7 +4,7 @@
 
 Meu nome é Jonathas Nicacio, tenho 21 anos e sou natural de Salvador-BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Atuo na área de Tecnologia da Informação no Exército Brasileiro desde 2023, com experiência em programação, redes de computadores, segurança da informação e demais áreas relacionadas à infraestrutura e desenvolvimento de sistemas.
 
-Linkedin: "[Jonathas Nicacio](https://www.linkedin.com/in/jonathasnicacio-dev/)"
+Linkedin: [Jonathas Nicacio](https://www.linkedin.com/in/jonathasnicacio-dev/)
 
 ### 🧠 Linguagens e Tecnologias
 
