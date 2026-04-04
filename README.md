@@ -1,19 +1,18 @@
 <div align="center">
 
 # 🧑‍💻 Jonathas Nicacio
-
-### *Explorando novas tecnologias, um commit de cada vez 🚀*
+### *Construindo a base para Arquitetura de Soluções e Back-end*
 
 <br/>
 
 <p align="center">
-  Atuo há 4 anos com suporte e infraestrutura de TI no Exército Brasileiro, acumulando experiência prática em resolução de problemas técnicos e redes.
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> com foco direcionado à engenharia de software e arquitetura.
   <br/>
-  Paralelamente, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e dedico meus estudos ao <b>Desenvolvimento Back-end</b>.
+  Atualmente, minha dedicação está em dominar <b>Python</b> e seu ecossistema, explorando a fundo lógica de programação, estrutura de dados e orientação a objetos em projetos práticos.
 </p>
 
 <p align="center">
-  Atualmente, estou focado em dominar a linguagem <b>Python</b>, aprofundando conhecimentos em lógica de programação, algoritmos e estrutura de dados para criar soluções de software eficientes e escaláveis.
+  Organizo meu fluxo de desenvolvimento e estudos através de metodologias ágeis com quadros Kanban, garantindo disciplina e constância na evolução da minha base técnica.
 </p>
 
 <br/>
@@ -27,24 +26,24 @@
 
 <br/><br/>
 
-<h3>🛠️ Tecnologias & Ferramentas</h3>
+<h3>🛠️ Stack em Foco</h3>
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 10px;" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 15px;" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 15px;" />
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right: 15px;" />
 </div>
 
 <br/><br/>
 
-<h3>📊 Minha Jornada no GitHub</h3>
+<h3>📊 Constância e Disciplina</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CRFjonathas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" alt="Estatísticas do Jonathas" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=CRFjonathas&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Estatísticas do Jonathas" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRFjonathas&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=6&hide_border=true" alt="Top Linguagens" />
+  <i>"A forma segue a função."</i>
 </p>
 
 </div>
